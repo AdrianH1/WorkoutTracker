@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WorkoutTracker</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment_home">Hello home fragment</string>
+    <string name="hello_blank_fragment_new">Hello new workout fragment</string>
+    <string name="hello_blank_fragment_track">Hello track workout fragment</string>
+    <string name="title_home">Home</string>
+    <string name="title_new_workout">New Workout</string>
+    <string name="title_track_workout">Track Workout</string>
+</resources>
