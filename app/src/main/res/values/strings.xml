@@ -7,4 +7,8 @@
     <string name="title_home">Home</string>
     <string name="title_new_workout">New Workout</string>
     <string name="title_track_workout">Track Workout</string>
+    <string name="title_btn_create_workout">Create Workout</string>
+    <string name="txt_labelfor_workout_date">Date:</string>
+    <string name="edt_date">Choose Date</string>
+
 </resources>
