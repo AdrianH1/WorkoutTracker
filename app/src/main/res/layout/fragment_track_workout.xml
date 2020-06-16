@@ -6,12 +6,6 @@
     android:orientation="vertical"
     tools:context=".NewWorkoutFragment">
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/txt_labelfor_workout_date"
-        android:labelFor="@+id/txt_workout_date"/>
-
     <EditText
         android:id="@+id/edt_workout_date"
         android:layout_width="match_parent"
