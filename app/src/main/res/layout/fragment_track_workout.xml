@@ -10,13 +10,12 @@
         android:id="@+id/edt_workout_date"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:inputType="none"
+        android:inputType="date"
         android:hint="@string/edt_date"
-        android:clickable="true"
         />
 
     <ListView
-        android:id="@+id/lst_existing_workout"
+        android:id="@+id/recyclerview_existing_workout"
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="1"

@@ -10,5 +10,6 @@
     <string name="title_btn_create_workout">Create Workout</string>
     <string name="txt_labelfor_workout_date">Date:</string>
     <string name="edt_date">Choose Date</string>
+    <string name="add_workout">Add Workout</string>
 
 </resources>
